@@ -7,10 +7,6 @@
     "nameTextView": "#com.bs.droidaction:id/nameTextView"
   },
   "flutter": {
-    "allowPermissionButton": "flutter: allowButton",
-    "showTextOnDelay": "flutter: delayInput",
-    "editTextBox": "flutter: inputBox",
-    "showTextCheckBox": "flutter: showTextSwitch",
-    "nameTextView": "flutter: KarateDSLText"
+    "allowPermissionButton": "flutter: allowButton"
   }
 }
